@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center;">
     <a href="mailto:gxlvera@gmail.com" target="blank">
-        <img src='envelope.png' width=20px height=20px/>
+        <img src='envelope.png' width=30px height=30px/>
     </a>
-    <a href="www.linkedin.com/in/xiaole-guo" target="blank" style="margin-left: 30px;"> <!-- Adjusted margin here -->
-        <img align="center" src="./assets/bilibili-svgrepo-com.svg" alt="Bilibili" height="40" width="40" style="vertical-align: middle;" />
+    <a href="www.linkedin.com/in/xiaole-guo" target="blank" style="margin-left: 40px;"> 
+        <img src="linkedin.png" width=30px height=30px />
     </a>
 </p>
 
