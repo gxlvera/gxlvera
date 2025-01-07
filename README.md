@@ -12,7 +12,7 @@
     <a href="mailto:gxlvera@gmail.com" target="blank">
         <img src='envelope.png' width=30px height=30px/>
     </a>
-    <a href="www.linkedin.com/in/xiaole-guo" target="blank" style="margin-left: 40px;"> 
+    <a href="http://www.linkedin.com/in/xiaole-guo" target="blank" style="margin-left: 40px;"> 
         <img src="linkedin.png" width=30px height=30px />
     </a>
 </p>
