@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Vera Xiaole Guo
-🏫 A senior at The University of Hong Kong, studying a dual major of computer science and finance
+🏫 An M.S. student at Carnegie Mellon, did my undergrad at at The University of Hong Kong, studying a dual major of computer science and finance.
 
 ✈️ Full year exchange student at UC Berkeley
 
