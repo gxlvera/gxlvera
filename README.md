@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Vera Xiaole Guo
 🏫 An M.S. student at Carnegie Mellon, did my undergrad at at The University of Hong Kong, studying a dual major of computer science and finance.
 
-✈️ Full year exchange student at UC Berkeley
+🤖️ Contributor to SGLang and RL Framework Miles/Slime, passionate about RL Infra.
 
 💼 Ex-intern at Apple China
 
-💻 Currently working on Multimodal agents at HKU XLANG Lab
+💻 Ex-RA at HKU XLANG Lab working on multimodal computer-use agents.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center;">
