@@ -3,7 +3,7 @@
 
 🤖️ Contributor to SGLang and RL Framework Miles/Slime/Verl, passionate about RL Infra.
 
-💼 Ex-intern at Apple China
+💼 Current Intern at ByteDance Seed (San Jose) working on Agentic RL; Ex-intern at Apple China
 
 💻 Ex-RA at HKU XLANG Lab working on multimodal computer-use agents.
 
