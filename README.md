@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Vera Xiaole Guo
 🏫 An M.S. student at Carnegie Mellon, did my undergrad at at The University of Hong Kong, studying a dual major of computer science and finance.
 
-🤖️ Contributor to SGLang and RL Framework Miles/Slime, passionate about RL Infra.
+🤖️ Contributor to SGLang and RL Framework Miles/Slime/Verl, passionate about RL Infra.
 
 💼 Ex-intern at Apple China
 
